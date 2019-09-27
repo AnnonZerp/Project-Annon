@@ -1,0 +1,20 @@
+C:\Users\avery\OneDrive\Documents\GitHub\NETLock\NETLock\bin\Debug\NETLock.dll.config
+C:\Users\avery\OneDrive\Documents\GitHub\NETLock\NETLock\bin\Debug\NETLock.dll
+C:\Users\avery\OneDrive\Documents\GitHub\NETLock\NETLock\bin\Debug\NETLock.pdb
+C:\Users\avery\OneDrive\Documents\GitHub\NETLock\NETLock\bin\Debug\MySql.Data.dll
+C:\Users\avery\OneDrive\Documents\GitHub\NETLock\NETLock\bin\Debug\MySql.Data.xml
+C:\Users\avery\OneDrive\Documents\GitHub\NETLock\NETLock\obj\Debug\NETLock.dll
+C:\Users\avery\OneDrive\Documents\GitHub\NETLock\NETLock\obj\Debug\NETLock.pdb
+C:\Users\Avery\Documents\GitHub\NETLock\NETLock\bin\Debug\NETLock.dll.config
+C:\Users\Avery\Documents\GitHub\NETLock\NETLock\bin\Debug\NETLock.dll
+C:\Users\Avery\Documents\GitHub\NETLock\NETLock\bin\Debug\NETLock.pdb
+C:\Users\Avery\Documents\GitHub\NETLock\NETLock\obj\Debug\NETLock.csproj.CoreCompileInputs.cache
+C:\Users\Avery\Documents\GitHub\NETLock\NETLock\obj\Debug\NETLock.dll
+C:\Users\Avery\Documents\GitHub\NETLock\NETLock\obj\Debug\NETLock.pdb
+D:\Desktop\Coding Projects\Project Annon\NETLock\bin\Debug\NETLock.dll.config
+D:\Desktop\Coding Projects\Project Annon\NETLock\bin\Debug\NETLock.dll
+D:\Desktop\Coding Projects\Project Annon\NETLock\bin\Debug\NETLock.pdb
+D:\Desktop\Coding Projects\Project Annon\NETLock\obj\Debug\NETLock.csprojResolveAssemblyReference.cache
+D:\Desktop\Coding Projects\Project Annon\NETLock\obj\Debug\NETLock.csproj.CoreCompileInputs.cache
+D:\Desktop\Coding Projects\Project Annon\NETLock\obj\Debug\NETLock.dll
+D:\Desktop\Coding Projects\Project Annon\NETLock\obj\Debug\NETLock.pdb

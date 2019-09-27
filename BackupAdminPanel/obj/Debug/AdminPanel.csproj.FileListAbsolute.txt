@@ -1,0 +1,46 @@
+C:\Users\avery\OneDrive\Documents\GitHub\NETLock\AdminPanel\bin\Debug\AdminPanel.exe.config
+C:\Users\avery\OneDrive\Documents\GitHub\NETLock\AdminPanel\bin\Debug\AdminPanel.exe
+C:\Users\avery\OneDrive\Documents\GitHub\NETLock\AdminPanel\bin\Debug\AdminPanel.pdb
+C:\Users\avery\OneDrive\Documents\GitHub\NETLock\AdminPanel\bin\Debug\MySql.Data.dll
+C:\Users\avery\OneDrive\Documents\GitHub\NETLock\AdminPanel\bin\Debug\MySql.Data.xml
+C:\Users\avery\OneDrive\Documents\GitHub\NETLock\AdminPanel\obj\Debug\AdminPanel.Form1.resources
+C:\Users\avery\OneDrive\Documents\GitHub\NETLock\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+C:\Users\avery\OneDrive\Documents\GitHub\NETLock\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.Cache
+C:\Users\avery\OneDrive\Documents\GitHub\NETLock\AdminPanel\obj\Debug\AdminPanel.exe
+C:\Users\avery\OneDrive\Documents\GitHub\NETLock\AdminPanel\obj\Debug\AdminPanel.pdb
+C:\Users\avery\OneDrive\Documents\GitHub\NETLock\AdminPanel\obj\Debug\AdminPanel.csprojResolveAssemblyReference.cache
+C:\Users\Avery\Documents\GitHub\NETLock\AdminPanel\bin\Debug\AdminPanel.exe.config
+C:\Users\Avery\Documents\GitHub\NETLock\AdminPanel\bin\Debug\AdminPanel.exe
+C:\Users\Avery\Documents\GitHub\NETLock\AdminPanel\bin\Debug\AdminPanel.pdb
+C:\Users\Avery\Documents\GitHub\NETLock\AdminPanel\obj\Debug\AdminPanel.csprojResolveAssemblyReference.cache
+C:\Users\Avery\Documents\GitHub\NETLock\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+C:\Users\Avery\Documents\GitHub\NETLock\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.Cache
+C:\Users\Avery\Documents\GitHub\NETLock\AdminPanel\obj\Debug\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\Avery\Documents\GitHub\NETLock\AdminPanel\obj\Debug\AdminPanel.exe
+C:\Users\Avery\Documents\GitHub\NETLock\AdminPanel\obj\Debug\AdminPanel.pdb
+C:\Users\Avery\Documents\GitHub\NETLock\AdminPanel\obj\Debug\AdminPanel.AdminMainForm.resources
+C:\Users\Avery\Documents\GitHub\NETLock\AdminPanel\obj\Debug\AdminPanel.AppVersionandUpdateForm.resources
+D:\Desktop\Project Annon\AdminPanel\obj\Debug\AdminPanel.AdminMainForm.resources
+D:\Desktop\Project Annon\AdminPanel\obj\Debug\AdminPanel.AppVersionandUpdateForm.resources
+D:\Desktop\Project Annon\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+D:\Desktop\Project Annon\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.Cache
+D:\Desktop\Project Annon\AdminPanel\obj\Debug\AdminPanel.csproj.CoreCompileInputs.cache
+D:\Desktop\Project Annon\AdminPanel\bin\Debug\AdminPanel.exe.config
+D:\Desktop\Project Annon\AdminPanel\bin\Debug\AdminPanel.exe
+D:\Desktop\Project Annon\AdminPanel\bin\Debug\AdminPanel.pdb
+D:\Desktop\Project Annon\AdminPanel\obj\Debug\xDialog.MsgBox.resources
+D:\Desktop\Project Annon\AdminPanel\obj\Debug\AdminPanel.exe
+D:\Desktop\Project Annon\AdminPanel\obj\Debug\AdminPanel.pdb
+D:\Desktop\Project Annon\AdminPanel\obj\Debug\AdminPanel.csprojResolveAssemblyReference.cache
+D:\Desktop\Coding Projects\Project Annon\AdminPanel\bin\Debug\AdminPanel.exe.config
+D:\Desktop\Coding Projects\Project Annon\AdminPanel\bin\Debug\AdminPanel.exe
+D:\Desktop\Coding Projects\Project Annon\AdminPanel\bin\Debug\AdminPanel.pdb
+D:\Desktop\Coding Projects\Project Annon\AdminPanel\obj\Debug\AdminPanel.csprojResolveAssemblyReference.cache
+D:\Desktop\Coding Projects\Project Annon\AdminPanel\obj\Debug\AdminPanel.AdminMainForm.resources
+D:\Desktop\Coding Projects\Project Annon\AdminPanel\obj\Debug\AdminPanel.AppVersionandUpdateForm.resources
+D:\Desktop\Coding Projects\Project Annon\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+D:\Desktop\Coding Projects\Project Annon\AdminPanel\obj\Debug\xDialog.MsgBox.resources
+D:\Desktop\Coding Projects\Project Annon\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.Cache
+D:\Desktop\Coding Projects\Project Annon\AdminPanel\obj\Debug\AdminPanel.csproj.CoreCompileInputs.cache
+D:\Desktop\Coding Projects\Project Annon\AdminPanel\obj\Debug\AdminPanel.exe
+D:\Desktop\Coding Projects\Project Annon\AdminPanel\obj\Debug\AdminPanel.pdb

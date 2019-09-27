@@ -1,0 +1,12 @@
+D:\Desktop\Project Annon\AdminPanel\obj\Release\AdminPanel.csprojResolveAssemblyReference.cache
+D:\Desktop\Project Annon\AdminPanel\obj\Release\AdminPanel.AdminMainForm.resources
+D:\Desktop\Project Annon\AdminPanel\obj\Release\AdminPanel.AppVersionandUpdateForm.resources
+D:\Desktop\Project Annon\AdminPanel\obj\Release\AdminPanel.Properties.Resources.resources
+D:\Desktop\Project Annon\AdminPanel\obj\Release\AdminPanel.csproj.GenerateResource.Cache
+D:\Desktop\Project Annon\AdminPanel\obj\Release\AdminPanel.csproj.CoreCompileInputs.cache
+D:\Desktop\Project Annon\AdminPanel\obj\Release\xDialog.MsgBox.resources
+D:\Desktop\Project Annon\AdminPanel\bin\Release\AdminPanel.exe.config
+D:\Desktop\Project Annon\AdminPanel\bin\Release\AdminPanel.exe
+D:\Desktop\Project Annon\AdminPanel\bin\Release\AdminPanel.pdb
+D:\Desktop\Project Annon\AdminPanel\obj\Release\AdminPanel.exe
+D:\Desktop\Project Annon\AdminPanel\obj\Release\AdminPanel.pdb
